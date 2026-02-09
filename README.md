@@ -2,7 +2,7 @@
 
 AI-powered conversational agent for collecting TikTok advertisement campaign details and automatically creating ads via API.
 
-![Agent Workflow](images/Screenshot 2026-02-09 221829)
+![Agent Workflow](images/1.png)
 
 ---
 
