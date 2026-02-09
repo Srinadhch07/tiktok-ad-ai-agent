@@ -4,8 +4,6 @@ AI-powered conversational agent for collecting TikTok advertisement campaign det
 
 ![Agent Workflow](images/1.png)
 ![Agent Workflow](images/2.png)
-![Agent Workflow](images/3.png)
-![Agent Workflow](images/4.png)
 
 ---
 
@@ -22,7 +20,8 @@ This project implements a deterministic AI agent that:
 
 The workflow ensures the backend controls the state while the LLM is used only for conversation.
 
-![Architecture](images/architecture.png)
+
+![Agent Workflow](images/3.png)
 
 ---
 
@@ -36,7 +35,8 @@ The workflow ensures the backend controls the state while the LLM is used only f
 * Environment-based configuration
 * Production-ready request handling
 
-![Conversation Flow](images/conversation.png)
+![Agent Workflow](images/4.png)
+
 
 ---
 
